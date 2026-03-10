@@ -1,0 +1,5 @@
+<< 'EOF'
+Vendor bank change requests are frequently received over email without secondary out-of-band verification. In multiple instances, approvers relied on email threads alone.
+There is limited visibility correlating vendor master data changes in ERP with email sender authenticity signals.
+Payment approvals are sometimes completed outside standard workflow during quarter-end close to speed processing.
+EOF
